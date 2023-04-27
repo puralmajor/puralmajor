@@ -39,7 +39,7 @@ Django를 활용해 AI 모델을 삽입한 웹 개발에 대한 공부를  있�
   <img src="https://img.shields.io/badge/Tableau-EBEBEB?style=for-the-badge&logo=Tableau&logoColor=#E97627">
 </div>
 
-<div style="float:left;">
+<div align="right">
   <h3> 🛠Dev Tools </h3>
     <div>
       <img src="https://img.shields.io/badge/Bootstrap-EBEBEB?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3">
