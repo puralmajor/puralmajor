@@ -17,13 +17,13 @@
     <img src="https://img.shields.io/badge/MySQL-EBEBEB?style=for-the-badge&logo=MySQL&logoColor=#4479A1">
     <img src="https://img.shields.io/badge/Google BigQuery-EBEBEB?style=for-the-badge&logo=Google Cloud&logoColor=#4285F4">
   </div>
-  <div>
-    visualization
-    <img src="https://img.shields.io/badge/Matplotlib-EBEBEB?style=for-the-badge">
-    <img src="https://img.shields.io/badge/seaborn-EBEBEB?style=for-the-badge">
-    <img src="https://img.shields.io/badge/plotly-EBEBEB?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Tableau-EBEBEB?style=for-the-badge">
-  </div>
+</div>
+<div>
+  <h3>📊visualization</h3>
+  <img src="https://img.shields.io/badge/Matplotlib-EBEBEB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/seaborn-EBEBEB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/plotly-EBEBEB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tableau-EBEBEB?style=for-the-badge&logo=Tableau&logoColor=#E97627">
 </div>
 
 <div style="float:left;">
