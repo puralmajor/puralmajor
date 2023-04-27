@@ -37,6 +37,6 @@
   <h6> Sometimes.. </h6>
   <div>
     <img src="https://img.shields.io/badge/Javascript-EBEBEB?style=for-the-badge&logo=Javascript&logoColor=#F7DF1E">
-    
+    <img src="https://img.shields.io/badge/React-EBEBEB?style=for-the-badge&logo=React&logoColor=#61DAFB">
   </div>
 </div>
