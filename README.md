@@ -14,7 +14,7 @@ Class PuralMajor():
 """
 ```
 
-
+<h1> 기술 스택 </h1>
 <div style="float:left;">
   <h3> 💾Data Tools </h3>
   <div>
