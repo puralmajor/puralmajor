@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=Pural%10Major%10Github&fontSize=65&animations=fadein)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Pural%10Major%10Github&fontSize=65&animations=fadein)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puralmajor)](https://github.com/puralmajor/github-readme-stats)
 
 ### 🛠Data Tools
