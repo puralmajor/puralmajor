@@ -17,7 +17,7 @@ Django를 활용해 AI 모델을 삽입한 웹 개발에 대한 공부를  있�
 ```
 
 <h1> 기술 스택 </h1>
-<div style='display: flex; hegith:40'>
+<div style='display:flex; heigth:40px;'>
   <div style='display: inline-block'>
     <h3> 💾Data Tools </h3>
     <div>
