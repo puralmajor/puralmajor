@@ -2,14 +2,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puralmajor)](https://github.com/puralmajor/github-readme-stats)
 
 
-<div style="float:left;">
+<div>
   <h3> 🛠Data Tools </h3>
-  <div>
+  <div style="float:left;">
     <img src="https://img.shields.io/badge/Python-EBEBEB?style=for-the-badge&logo=python&logoColor=#3776AB">
     <img src="https://img.shields.io/badge/Pytorch-EBEBEB?style=for-the-badge&logo=pytorch&logoColor=#EE4C2C">
     <img src="https://img.shields.io/badge/Tensorflow-EBEBEB?style=for-the-badge&logo=tensorflow&logoColor=#FF6F00">
     <img src="https://img.shields.io/badge/Pandas-EBEBEB?style=for-the-badge&logo=pandas&logoColor=#AC3FE6">
   </div>
   <h3> Dev Tools </h3>
-  <div>
+  <div style="float:left;">
 </div>
