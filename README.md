@@ -5,9 +5,10 @@
 Class PuralMajor():
   self.Main = ["Data science", "Data Analysis"]
   self.Sub = ["Back-end"]
-  
-def __main__():
-  object = PuralMajor()
+
+"""
+안녕하세요,
+저는 데이터 분석 & 딥러닝을 위주로 공부하고 있습니다.
 ```
 
 
