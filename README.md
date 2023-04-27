@@ -18,7 +18,7 @@ Django를 활용해 AI 모델을 삽입한 웹 개발에 대한 공부를  있�
 
 <h1> 기술 스택 </h1>
 <div style='display: flex; hegith:40'>
-  <div>
+  <div style='display: inline-block'>
     <h3> 💾Data Tools </h3>
     <div>
       <img src="https://img.shields.io/badge/Python-EBEBEB?style=for-the-badge&logo=python&logoColor=#3776AB">
@@ -33,7 +33,7 @@ Django를 활용해 AI 모델을 삽입한 웹 개발에 대한 공부를  있�
     </div>
   </div>
   
-  <div>
+  <div style='display: inline-block'>
     <h3>📊visualization</h3>
     <img src="https://img.shields.io/badge/Matplotlib-EBEBEB?style=for-the-badge">
     <img src="https://img.shields.io/badge/seaborn-EBEBEB?style=for-the-badge">
@@ -41,7 +41,7 @@ Django를 활용해 AI 모델을 삽입한 웹 개발에 대한 공부를  있�
     <img src="https://img.shields.io/badge/Tableau-EBEBEB?style=for-the-badge&logo=Tableau&logoColor=#E97627">
   </div>
   
-  <div align="right">
+  <div style='display: inline-block'>
   <h3> 🛠Dev Tools </h3>
     <div>
       <img src="https://img.shields.io/badge/Bootstrap-EBEBEB?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3">
