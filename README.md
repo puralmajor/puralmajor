@@ -12,7 +12,10 @@
     <img src="https://img.shields.io/badge/Pandas-EBEBEB?style=for-the-badge&">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/SQL-EBEBEB?style=for-the-badge&logo=PostgreSQL&logoColor=#4479A1">
+    <img src="https://img.shields.io/badge/SQL-EBEBEB?style=for-the-badge">
+    <img src="https://img.shields.io/badge/PostgreSQL-EBEBEB?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1">
+    <img src="https://img.shields.io/badge/MySQL-EBEBEB?style=for-the-badge&logo=MySQL&logoColor=#4479A1">
+    <img src="https://img.shields.io/badge/Google BigQuery-EBEBEB?style=for-the-badge&logo=Google Cloud&logoColor=#4285F4">
   </div>
 </div>
 
