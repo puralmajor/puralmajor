@@ -18,7 +18,7 @@ Django를 활용해 AI 모델을 삽입한 웹 개발에 대한 공부를  있�
 
 <h1> 기술 스택 </h1>
 <div>
-  <div style="float:left;">
+  <div>
     <h3> 💾Data Tools </h3>
     <div>
       <img src="https://img.shields.io/badge/Python-EBEBEB?style=for-the-badge&logo=python&logoColor=#3776AB">
