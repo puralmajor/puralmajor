@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Pandas-EBEBEB?style=for-the-badge&">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/SQL-EBEBEB?style=for-the-badge&logo=MySQL&logo=PostgreSQL&logoColor=#4479A1">
+    <img src="https://img.shields.io/badge/SQL-EBEBEB?style=for-the-badge&logo=MySQLL&logoColor=#4479A1">
   </div>
 </div>
 
