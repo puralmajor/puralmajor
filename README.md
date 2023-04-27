@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puralmajor)](https://github.com/puralmajor/github-readme-stats)
 
 
-<div style="display:felx;">
+<div style="float:left;">
   <h3> 🛠Data Tools </h3>
   <div>
     <img src="https://img.shields.io/badge/Python-EBEBEB?style=for-the-badge&logo=python&logoColor=#3776AB">
