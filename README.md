@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome-nl-&fontSize=65&animation=fadein&desc=Pural%20Major's%20Github&descSize=15)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy4388)](https://solved.ac/sjy4388/)
-
+<div style="float:center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy4388)](https://solved.ac/sjy4388/)
+</div>
 ```python
 Class PuralMajor():
   self.Main = ["Data science", "Data Analysis"]
