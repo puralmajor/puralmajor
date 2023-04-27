@@ -22,8 +22,8 @@
 <div style="float:left;">
   <h3> 🛠Dev Tools </h3>
     <div>
-    <img src="https://img.shields.io/badge/Python-EBEBEB?style=for-the-badge&logo=python&logoColor=#3776AB">
-    <img src="https://img.shields.io/badge/Django-EBEBEB?style=for-the-badge&logo=Django&logoColor=#092E20">
-    <img src="https://img.shields.io/badge/NGINX-EBEBEB?style=for-the-badge&logo=NGINX&logoColor=#009639">
-  </div>
+      <img src="https://img.shields.io/badge/Python-EBEBEB?style=for-the-badge&logo=python&logoColor=#3776AB">
+      <img src="https://img.shields.io/badge/Django-EBEBEB?style=for-the-badge&logo=Django&logoColor=#092E20">
+      <img src="https://img.shields.io/badge/NGINX-EBEBEB?style=for-the-badge&logo=NGINX&logoColor=#009639">
+    </div>
 </div>
