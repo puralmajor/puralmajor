@@ -15,6 +15,8 @@ Class PuralMajor():
 Django를 활용해 AI 모델을 삽입한 웹 개발에 대한 공부를  있습니다.
 """
 ```
+<h1> Pages </h1>
+ <a href="https://sjy4388.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EBEBEB?style=flat-square&logo=Tistory&logoColor=#FFFF000"/></a>
 
 <h1> 기술 스택 </h1>
 <div style="float:left;">
