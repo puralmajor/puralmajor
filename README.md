@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome-nl-&fontSize=65&animation=fadein&desc=Pural%20Major's%20Github&descSize=15)
 
 
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy4388">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy4388">
 
 ```python
 Class PuralMajor():
