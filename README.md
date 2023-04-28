@@ -50,7 +50,7 @@ Django를 활용해 AI 모델을 삽입한 웹 개발에 대한 공부를  있�
     <img src="https://img.shields.io/badge/Django-EBEBEB?style=for-the-badge&logo=Django&logoColor=#092E20">
     <img src="https://img.shields.io/badge/NGINX-EBEBEB?style=for-the-badge&logo=NGINX&logoColor=#009639">
     <h6> Sometimes.. </h6>
-    <span style="font-size: 3px">javascript</span>
+    <span style="font-size: 1px">javascript</span>
     <img src="https://img.shields.io/badge/Javascript-EBEBEB?style=for-the-badge&logo=Javascript&logoColor=#F7DF1E">
     <img src="https://img.shields.io/badge/React-EBEBEB?style=for-the-badge&logo=React&logoColor=#61DAFB">
   </div>
